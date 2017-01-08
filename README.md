@@ -11,6 +11,7 @@
   <li>Open the file named 'index.html' from this repository. For this Code Copy, you may write your CSS in a <code>style</code> tag within the <code>head</code> tag OR you may put your css in an external CSS file, just be sure to link it properly in your html file.</li>
   <li>DO NOT worry about any extra functionality - like the main rotating image, the search bar or the bag icon - we are not there yet.</li>
   <li>Recreate the design you see in 'code-copy-2.png' using only HTML and CSS. Upload your files to this github repository when you are finished. You MAY NOT directly copy and paste code from apple.com's website. The point of this exercise is to practice your skills.</li>
+  <li>We will go over this next week.</li>
 </ol>
 
 <h2>Rubric</h2>
